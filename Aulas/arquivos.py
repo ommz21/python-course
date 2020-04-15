@@ -1,5 +1,7 @@
-arquivo = open("arquivo.txt")
+# -*- coding: utf-8 -*-
 
-linhas = arquivo.readlines()
+w = open("arquivo.txt","a")
 
-print(linhas)
+w.write("Esse é o meu arquivo\n")
+
+w.close()
