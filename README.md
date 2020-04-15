@@ -2,4 +2,4 @@ Curso de Python Udemy
 
 Introdução à linguagem Python
 
-link: https://www.udemy.com/course/intro-python/
+link: https://www.udemy.com/course/intro_python/
